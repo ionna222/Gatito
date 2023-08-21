@@ -1,0 +1,32 @@
+main {
+    width: 100%;
+    background-color: rgb(57, 39, 45);
+}
+
+#man {
+    width: 80%;
+    background-color: rgb(78, 28, 78);
+    margin: auto;
+}
+
+#cat {
+    width: 20%;
+    margin: auto;
+    background-color: rgb(52, 32, 38);
+    padding: 20px;
+}
+#cat pre {
+    color: beige;
+    text-align: center;
+}
+
+#man p {
+    text-align: center;
+    font-size: 26px;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    color: beige
+
+}
